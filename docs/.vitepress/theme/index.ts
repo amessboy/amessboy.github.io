@@ -1,0 +1,64 @@
+// .vitepress/theme/index.ts
+import DefaultTheme from 'vitepress/theme'
+import { inBrowser } from 'vitepress'
+import type { EnhanceAppContext } from 'vitepress'
+import busuanzi from 'busuanzi.pure.js'
+import VisitorPanel from './components/VisitorPanel.vue'
+import { watch } from 'vue'
+import { type Theme } from 'vitepress'
+import { AntdTheme } from 'vite-plugin-vitepress-demo/theme'
+import Utterances from './components/Utterances.vue'
+import Layout from './components/Layout.vue'
+import PreviewLink from './components/PreviewLink.vue'
+import ElementPlus from 'element-plus'
+import 'element-plus/dist/index.css'
+import 'uno.css'
+import './styles/index.css'
+
+let homePageStyle: HTMLStyleElement | undefined
+export default {
+  ...DefaultTheme,
+  Layout,
+  enhanceApp(ctx: EnhanceAppContext) {
+    const { app, router, siteData } = ctx
+    if (typeof window === 'undefined') return
+
+    app.use(ElementPlus)
+    app.component('Demo', AntdTheme)
+    app.component('Utterances', Utterances)
+    app.component('PreviewLink', PreviewLink)
+    app.component('VisitorPanel', VisitorPanel)
+    if (inBrowser) {
+      router.onAfterRouteChange = () => {
+        busuanzi.fetch()
+      }
+    }
+  },
+  setup() {},
+} as Theme
+if (typeof window !== 'undefined') {
+  // detect browser, add to class for conditional styling
+  const browser = navigator.userAgent.toLowerCase()
+  if (browser.includes('chrome')) document.documentElement.classList.add('browser-chrome')
+  else if (browser.includes('firefox')) document.documentElement.classList.add('browser-firefox')
+  else if (browser.includes('safari')) document.documentElement.classList.add('browser-safari')
+}
+
+// Speed up the rainbow animation on home page
+function updateHomePageStyle(value: boolean) {
+  if (value) {
+    if (homePageStyle) return
+
+    homePageStyle = document.createElement('style')
+    homePageStyle.innerHTML = `
+    :root {
+      animation: rainbow 12s linear infinite;
+    }`
+    document.body.appendChild(homePageStyle)
+  } else {
+    if (!homePageStyle) return
+
+    homePageStyle.remove()
+    homePageStyle = undefined
+  }
+}
