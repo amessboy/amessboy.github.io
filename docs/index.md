@@ -21,11 +21,11 @@ hero:
     alt: V2Plus科学上网梯子logo
   actions:
     - theme: brand
-      text: 🚀 快速开始
-      link: /articles/01-使用手册/1-快速入门/魔法科学V2Plus诞生记
+      text: 💰 赚点小费
+      link: http://www.v2plus.xyz/#/activityplan
     - theme: alt
-      text: 🔗 登录系统
-      link: http://www.v2plus.xyz
+      text: 🔗 登录使用
+      link: http://www.v2plus.xyz/#/login
 
 features:
   - title: 🚀 新手快速入门
