@@ -24,8 +24,11 @@ hero:
       text: 💰 赚点小费
       link: http://web.v2plus.xyz/#/activityplan
     - theme: alt
-      text: 🔗 登录使用
+      text: 🔑 登录使用
       link: http://web.v2plus.xyz/#/login
+    - theme: alt
+      text: ⬇️ 前往下载
+      link: http://web.v2plus.xyz
 
 features:
   - title: 🚀 新手快速入门
