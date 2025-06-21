@@ -22,10 +22,10 @@ hero:
   actions:
     - theme: brand
       text: 💰 赚点小费
-      link: http://www.v2plus.xyz/#/activityplan
+      link: http://web.v2plus.xyz/#/activityplan
     - theme: alt
       text: 🔗 登录使用
-      link: http://www.v2plus.xyz/#/login
+      link: http://web.v2plus.xyz/#/login
 
 features:
   - title: 🚀 新手快速入门
