@@ -9,7 +9,7 @@ const __dirname = path.dirname(__filename)
 
 // 根据环境变量确定基础URL
 const baseUrl = process.env.CUSTOM_DOMAIN === 'true' 
-  ? 'https://doc.v2plus.xyz' 
+  ? 'https://www.v2plus.xyz' 
   : 'https://amessboy.github.io'
 
 const docsDir = path.join(__dirname, '../docs')

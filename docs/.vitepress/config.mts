@@ -6,7 +6,7 @@ import { description, github, keywords, name, base } from './meta'
 import socialLinks from './link'
 
 // 根据环境变量确定域名
-const baseUrl = process.env.CUSTOM_DOMAIN === 'true' ? 'https://doc.v2plus.xyz' : 'https://amessboy.github.io'
+const baseUrl = process.env.CUSTOM_DOMAIN === 'true' ? 'https://www.v2plus.xyz' : 'https://amessboy.github.io'
 
 console.log('【updateInfo】', updateInfo)
 console.log('【baseUrl】', baseUrl)
