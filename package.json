@@ -15,7 +15,7 @@
   },
   "keywords": [],
   "license": "ISC",
-  "homepage": "https://doc.v2plus.xyz/",
+  "homepage": "https://www.v2plus.xyz/",
   "pnpm": {
     "peerDependencyRules": {
       "ignoreMissing": [

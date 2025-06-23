@@ -6,7 +6,7 @@ import { fileURLToPath } from 'url'
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
 
-const baseUrl = process.env.CUSTOM_DOMAIN === 'true' ? 'https://doc.v2plus.xyz' : 'https://amessboy.github.io'
+const baseUrl = process.env.CUSTOM_DOMAIN === 'true' ? 'https://www.v2plus.xyz' : 'https://amessboy.github.io'
 
 const robotsContent = `User-agent: *
 Allow: /
