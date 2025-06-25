@@ -5,7 +5,7 @@
 
 这篇教程教你如何注册Telegram，本文的最后还会分享2025最新的10000+个Telegram群合集和全网最有趣好用的机器人BOT
 # 下载和注册
-1. Telegram的注册需要在手机上进行，同时需要你有科学上网环境，详见[V2Plus多平台安装配置入门](../01-使用手册/2-配置设置/V2Plus多平台安装配置入门.md)。
+1. Telegram的注册需要在手机上进行，同时需要你有科学上网环境。
 2. telegram的下载有两种方式
 	1. 在 Google 的”Play商店“中搜索”telegram“并点击下载，下载完成后会自动安装。
 	2. 在手机浏览器中访问 https://telegram.org/android ，点击”Download Telegram“进行下载，下载完成后手动进行安装。
