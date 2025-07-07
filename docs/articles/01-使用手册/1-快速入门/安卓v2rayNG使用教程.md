@@ -59,7 +59,6 @@ v2rayNG 主界面
 获得节点服务器信息后，就可以开始添加配置文件了，点击软件主界面右上角的 ➕ 号按钮即可出现添加配置文件选项，如上图 V2rayNG 主界面所示，根据不同的节点添加不同的节点服务器配置文件。
 
 [![v2rayNG 添加配置文件](https://v2rayng.org/wp-content/uploads/2024/02/1707373922-v2rayNG-add-Config-File-915x1024.jpg)](https://v2rayng.org/wp-content/uploads/2024/02/1707373922-v2rayNG-add-Config-File.jpg)
-
 添加配置文件
 
 ### 扫描二维码（推荐!!!)
