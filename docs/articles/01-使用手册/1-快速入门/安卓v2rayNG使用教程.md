@@ -67,8 +67,8 @@ v2rayNG 主界面
 - 首先从电脑上打开免费上网工具 V2Plus
 	- 下载链接 https://gofile.io/d/NbgZX8 
 	- 备用链接 https://www.mediafire.com/file/7msuyqnxbl4ilmn/v2plus-windows-x64-0617.7z/file
-- 选择一个可用的节点，并按下快捷键`ctrl+F`，或者右键单击节点并选择分享节点。![](../../../2-配置设置/asserts/Pasted%20image%2020250620164432.png)
-- 操作完成后会弹出用于分享节点的二维码和链接![](../../../2-配置设置/asserts/Pasted%20image%2020250620164629.png)
+- 选择一个可用的节点，并按下快捷键`ctrl+F`，或者右键单击节点并选择分享节点。![](../2-配置设置/asserts/Pasted%20image%2020250620164432.png)
+- 操作完成后会弹出用于分享节点的二维码和链接![](../2-配置设置/asserts/Pasted%20image%2020250620164629.png)
 - 服务器节点的二维码图片或者把二维码图片保存至手机，然后点击软件主界面右上角的 ➕ 号按钮即可出现添加配置文件选项，选择扫描二维码，扫描电脑屏幕上的二维码或选择从手机相册打开二维码图片扫描配置文件二维码即可导入节点信息，如下图所示。
 
 [![v2rayNG 添加配置文件扫描二维码](https://v2rayng.org/wp-content/uploads/2024/02/1707373947-v2rayNG-add-Server-from-QRcode-915x1024.jpg)](https://v2rayng.org/wp-content/uploads/2024/02/1707373947-v2rayNG-add-Server-from-QRcode.jpg)
