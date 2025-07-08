@@ -10,6 +10,9 @@ tags:
 ---
 ## Windows客户端V2Plus配置教程
 
+switchproxy omega+v2plus清除系统代理
+
+
 V2Plus5.39下载与配置
 
 Big R
