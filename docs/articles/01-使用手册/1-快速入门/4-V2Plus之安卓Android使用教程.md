@@ -1,11 +1,6 @@
-# 最新 v2rayNG 使用教程快速入门篇
-
-v2rayNG是Android系统即安卓手机系统下的代理软件客户端，功能强大且支持多种代理协议，如VMess、VLESS、Shadowsocks、Socks、Trojan、Wireguard等代理协议。通过本文2025最新v2rayNG使用教程快速入门篇所掌握的技巧，能快速方便配置代理协议进行代理访问。
-
-![v2rayNG从入门到精通](https://v2rayng.org/wp-content/uploads/2022/06/1656358032-v2rayNG-1024x538.jpg)
+# 最新V2PIus 使用教程
 
 V2RayNG 是一个基于 V2Ray 内核的 Android 应用，适用于安卓手机及支持部分基于安卓TV系统的电视或者电视盒子。
-
 
 ## 一、界面预览
 
@@ -65,7 +60,12 @@ V2RayNG 是一个基于 V2Ray 内核的 Android 应用，适用于安卓手机�
 下载链接 https://gofile.io/d/NbgZX8
 备用链接 https://www.mediafire.com/file/7msuyqnxbl4ilmn/v2plus-windows-x64-0617.7z/file
 其次，选择一个可用的节点，并按下快捷键ctrl+F，或者右键单击节点并选择分享节点。![](../2-配置设置/asserts/Pasted%20image%2020250620164432.png)
-接着，操作完成后会弹出用于分享节点的二维码和链接![](../2-配置设置/asserts/Pasted%20image%2020250620164629.png)
+
+接着，操作完成后会弹出用于分享节点的二维码和链接。
+
+
+![](../2-配置设置/asserts/Pasted%20image%2020250620164629.png)
+
 最后，服务器节点的二维码图片或者把二维码图片保存至手机，然后点击软件主界面右上角的 ➕ 号按钮即可出现添加配置文件选项，选择扫描二维码，扫描电脑屏幕上的二维码或选择从手机相册打开二维码图片扫描配置文件二维码即可导入节点信息，如下图所示。
 
 [![v2rayNG 添加配置文件扫描二维码](https://v2rayng.org/wp-content/uploads/2024/02/1707373947-v2rayNG-add-Server-from-QRcode-915x1024.jpg)](https://v2rayng.org/wp-content/uploads/2024/02/1707373947-v2rayNG-add-Server-from-QRcode.jpg)
