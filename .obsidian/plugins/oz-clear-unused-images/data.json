@@ -1,0 +1,7 @@
+{
+  "deleteOption": ".trash",
+  "logsModal": true,
+  "excludedFolders": "docs/public,node_modules,dist",
+  "ribbonIcon": true,
+  "excludeSubfolders": true
+}
