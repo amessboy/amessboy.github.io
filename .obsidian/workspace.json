@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c88412fc35021b03",
+        "id": "dbc6bc559963b464",
         "type": "tabs",
         "children": [
           {
-            "id": "efd28c76c0111e92",
+            "id": "9e9cd6faf11e0d7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -175,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 424.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,31 +190,32 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "efd28c76c0111e92",
+  "active": "9e9cd6faf11e0d7e",
   "lastOpenFiles": [
-    "docs/articles/01-使用手册/2-配置设置/asserts/Pasted image 20250620165140.png",
-    "docs/articles/01-使用手册/2-配置设置/asserts/Pasted image 20250620164732.png",
-    "docs/articles/01-使用手册/2-配置设置/asserts/Pasted image 20250620164751.png",
-    "docs/articles/01-使用手册/2-配置设置/asserts/Pasted image 20250620164809.png",
-    "docs/articles/01-使用手册/2-配置设置/asserts/Pasted image 20250620164712.png",
     "docs/articles/01-使用手册/1-快速入门/5-安卓Android使用教程.md",
-    "docs/articles/01-使用手册/1-快速入门/image-1.png",
-    "docs/articles/01-使用手册/1-快速入门/image.png",
-    "docs/articles/01-使用手册/1-快速入门/7-梯子相关知识合集.md",
-    "docs/articles/01-使用手册/1-快速入门/6-苹果iOS使用教程.md",
-    "docs/articles/01-使用手册/1-快速入门/4-Windows 使用教程.md",
-    "docs/articles/01-使用手册/2-配置设置/asserts/Pasted image 20250620164245.png",
-    "docs/articles/01-使用手册/2-配置设置/asserts/Pasted image 20250620163630.png",
-    "docs/articles/01-使用手册/2-配置设置/asserts/Pasted image 20250620163645.png",
-    "docs/articles/01-使用手册/2-配置设置/asserts/Pasted image 20250620163841.png",
-    "docs/articles/01-使用手册/1-快速入门/3-解决办法.md",
-    "docs/articles/01-使用手册/1-快速入门/2-一分钟入门.md",
+    "docs/articles/01-使用手册/1-快速入门/asserts/v2rayn-icon.png",
+    "asserts/v2rayn-icon.png",
+    "asserts/1707367800-v2rayNG-Interface.jpg",
     "2025-07-28.md",
     "未命名.canvas",
+    "docs/articles/01-使用手册/1-快速入门/asserts/Pasted image 20250620164751.png",
+    "asserts",
+    "docs/articles/01-使用手册/2-配置设置/asserts/Pasted image 20250620164712 1.png",
+    "docs/articles/01-使用手册/2-配置设置/asserts/Pasted image 20250620164712.png",
+    "docs/articles/01-使用手册/2-配置设置/asserts/Pasted image 20250620164658.png",
+    "docs/articles/03-常见问题/软件问题/index.md",
+    "docs/articles/03-常见问题/软件问题/Pasted image 20250620164712 1.png",
+    "docs/articles/03-常见问题/非软件问题/connection.md",
+    "docs/articles/01-使用手册/1-快速入门/asserts/00 1.jpg",
+    "docs/articles/01-使用手册/1-快速入门/asserts/01.jpg",
+    "docs/articles/01-使用手册/1-快速入门/6-苹果iOS使用教程.md",
+    "docs/articles/01-使用手册/1-快速入门/7-梯子相关知识合集.md",
+    "docs/articles/01-使用手册/1-快速入门/4-Windows 使用教程.md",
+    "docs/articles/01-使用手册/1-快速入门/3-解决办法.md",
+    "docs/articles/01-使用手册/1-快速入门/2-一分钟入门.md",
     "docs/articles/01-使用手册/1-快速入门/1-魔法科学V2Plus诞生记.md",
     "docs/articles/01-使用手册/3-高级进阶/index.md",
     "docs/articles/01-使用手册/1-快速入门/index.md",
-    "docs/articles/03-常见问题/非软件问题/connection.md",
     "docs/articles/04-业务推广/分成/index.md",
     "docs/articles/04-业务推广/分成/Nginx常用命令.md",
     "docs/index.md",

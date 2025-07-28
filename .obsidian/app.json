@@ -2,6 +2,7 @@
   "useMarkdownLinks": true,
   "newFileLocation": "current",
   "newLinkFormat": "relative",
-  "attachmentFolderPath": "asserts",
-  "showLineNumber": true
+  "attachmentFolderPath": "./asserts",
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true
 }

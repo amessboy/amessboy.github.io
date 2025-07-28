@@ -8,11 +8,11 @@ V2RayNG 是一个基于 V2Ray 内核的 Android 应用，适用于安卓手机�
 下滑找到“Latest”（最新版），点击下载通用安装包
 如果你的网络暂时无法访问 GitHub，
 请下载网盘链接中提供的文件（链接）
-![](asserts/Pasted%20image%2020250620164245.png)
+![|283x613](asserts/Pasted%20image%2020250620164245.png)
 
 （2）安装后你的手机桌面上就出现了这款软件，打开它。
-![[image.png|269x612]]
 
+![](asserts/v2rayn-icon.png)
 （3）现在让我们回到电脑上，打开 V2Plus，单击选择一个可用的节点 。
 ![|514x399](asserts/Pasted%20image%2020250620164355.png)
 
@@ -28,7 +28,6 @@ V2RayNG 是一个基于 V2Ray 内核的 Android 应用，适用于安卓手机�
 ![|260x592](asserts/Pasted%20image%2020250620164712.png)
 
 （8）点击右上角的扫描图标，然后扫描电脑屏幕上的二维码 。
-![|265x602](asserts/Pasted%20image%2020250620164732.png)
 
 （9）此时你的安卓手机就获取到了电脑上分享的节点，点击右下角的运行按钮 。
 ![|263x598](asserts/Pasted%20image%2020250620164751.png)
@@ -66,8 +65,7 @@ V2RayNG 是一个基于 V2Ray 内核的 Android 应用，适用于安卓手机�
 安装教程很简单，如果是通过应用商店下载的，那么直接根据提示下载并安装即可，如果是通过官网下载或其他第三方下载的，下载完后获得文件为  `v2rayNG_x.x.x.apk`  文件，其中后缀  `.apk`  为安卓系统的安装包，`x.x.x`  代表版本号，然后点击安装即可，十分简单。
 
 安装完后，打开软件进入主界面，即配置文件界面，如下图所示。
-
-[![v2rayNG 主界面|457x1024](https://v2rayng.org/wp-content/uploads/2024/02/1707367800-v2rayNG-Interface-457x1024.jpg)](https://v2rayng.org/wp-content/uploads/2024/02/1707367800-v2rayNG-Interface.jpg)
+![|298x667](../../../../asserts/1707367800-v2rayNG-Interface.jpg)
 
 （v2rayNG 主界面）
 
@@ -108,7 +106,7 @@ V2RayNG 是一个基于 V2Ray 内核的 Android 应用，适用于安卓手机�
 
 最后，服务器节点的二维码图片或者把二维码图片保存至手机，然后点击软件主界面右上角的 ➕ 号按钮即可出现添加配置文件选项，选择扫描二维码，扫描电脑屏幕上的二维码或选择从手机相册打开二维码图片扫描配置文件二维码即可导入节点信息，如下图所示。
 
-[![v2rayNG 添加配置文件扫描二维码](https://v2rayng.org/wp-content/uploads/2024/02/1707373947-v2rayNG-add-Server-from-QRcode-915x1024.jpg)](https://v2rayng.org/wp-content/uploads/2024/02/1707373947-v2rayNG-add-Server-from-QRcode.jpg)
+[![v2rayNG 添加配置文件扫描二维码|649x726](https://v2rayng.org/wp-content/uploads/2024/02/1707373947-v2rayNG-add-Server-from-QRcode-915x1024.jpg)](https://v2rayng.org/wp-content/uploads/2024/02/1707373947-v2rayNG-add-Server-from-QRcode.jpg)
 
 （添加配置文件扫描二维码）
 
@@ -126,7 +124,7 @@ V2RayNG 是一个基于 V2Ray 内核的 Android 应用，适用于安卓手机�
 
 然后点击软件主界面右上角的 ➕ 号按钮即可出现添加配置文件选项，选择从剪贴板导入配置文件即可，如下图所示。
 
-[![v2rayNG 添加配置文件从剪贴板导入](https://v2rayng.org/wp-content/uploads/2024/02/1707373987-v2rayNG-add-Server-from-Clipboard-915x1024.jpg)](https://v2rayng.org/wp-content/uploads/2024/02/1707373987-v2rayNG-add-Server-from-Clipboard.jpg)
+[![v2rayNG 添加配置文件从剪贴板导入|649x726](https://v2rayng.org/wp-content/uploads/2024/02/1707373987-v2rayNG-add-Server-from-Clipboard-915x1024.jpg)](https://v2rayng.org/wp-content/uploads/2024/02/1707373987-v2rayNG-add-Server-from-Clipboard.jpg)
 
 （添加配置文件从剪贴板导入）
 
@@ -144,7 +142,7 @@ V2RayNG 是一个基于 V2Ray 内核的 Android 应用，适用于安卓手机�
 
 配置**Xray 节点**，通过点击软件主界面右上角的 ➕ 号按钮即可出现添加配置文件选项，选择`手动输入[VLESS]`即可，如下图所示。
 
-[![v2rayNG 添加配置文件 Xray 节点 VLESS 信息](https://v2rayng.org/wp-content/uploads/2024/02/1707374053-v2rayNG-add-Server-VLESS-Server-915x1024.jpg)](https://v2rayng.org/wp-content/uploads/2024/02/1707374053-v2rayNG-add-Server-VLESS-Server.jpg)
+[![v2rayNG 添加配置文件 Xray 节点 VLESS 信息|649x726](https://v2rayng.org/wp-content/uploads/2024/02/1707374053-v2rayNG-add-Server-VLESS-Server-915x1024.jpg)](https://v2rayng.org/wp-content/uploads/2024/02/1707374053-v2rayNG-add-Server-VLESS-Server.jpg)
 
 （添加配置文件 Xray 节点 VLESS 信息）
 
@@ -164,7 +162,7 @@ V2RayNG 是一个基于 V2Ray 内核的 Android 应用，适用于安卓手机�
 
 配置**Socks 节点**，通过点击软件主界面右上角的 ➕ 号按钮即可出现添加配置文件选项，选择`手动输入[Socks]`即可，如下图所示。
 
-[![v2rayNG 添加配置文件 Socks 节点信息](https://v2rayng.org/wp-content/uploads/2024/02/1707374135-v2rayNG-add-Server-Socks-Server-915x1024.jpg)](https://v2rayng.org/wp-content/uploads/2024/02/1707374135-v2rayNG-add-Server-Socks-Server.jpg)
+[![v2rayNG 添加配置文件 Socks 节点信息|649x726](https://v2rayng.org/wp-content/uploads/2024/02/1707374135-v2rayNG-add-Server-Socks-Server-915x1024.jpg)](https://v2rayng.org/wp-content/uploads/2024/02/1707374135-v2rayNG-add-Server-Socks-Server.jpg)
 
 （添加配置文件 Socks 节点信息）
 
