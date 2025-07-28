@@ -3,5 +3,7 @@
   "editing-toolbar",
   "global-proxy",
   "mermaid-tools",
-  "oz-clear-unused-images"
+  "oz-clear-unused-images",
+  "mousewheel-image-zoom",
+  "image-converter"
 ]
