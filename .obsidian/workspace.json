@@ -11,12 +11,14 @@
             "id": "efd28c76c0111e92",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "docs/articles/01-使用手册/2-配置设置/asserts/Pasted image 20250620165140.png"
+                "file": "docs/articles/01-使用手册/1-快速入门/5-安卓Android使用教程.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250620165140"
+              "icon": "lucide-file",
+              "title": "5-安卓Android使用教程"
             }
           }
         ]
@@ -110,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/articles/01-使用手册/2-配置设置/asserts/Pasted image 20250620165140.png",
+                "file": "docs/articles/01-使用手册/1-快速入门/5-安卓Android使用教程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Pasted image 20250620165140 的出链列表"
+              "title": "5-安卓Android使用教程 的出链列表"
             }
           },
           {
@@ -139,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/articles/01-使用手册/2-配置设置/asserts/Pasted image 20250620165140.png",
+                "file": "docs/articles/01-使用手册/1-快速入门/5-安卓Android使用教程.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Pasted image 20250620165140 的大纲"
+              "title": "5-安卓Android使用教程 的大纲"
             }
           },
           {
@@ -188,12 +190,12 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "f9f8292165b0dfab",
+  "active": "efd28c76c0111e92",
   "lastOpenFiles": [
+    "docs/articles/01-使用手册/2-配置设置/asserts/Pasted image 20250620165140.png",
     "docs/articles/01-使用手册/2-配置设置/asserts/Pasted image 20250620164732.png",
     "docs/articles/01-使用手册/2-配置设置/asserts/Pasted image 20250620164751.png",
     "docs/articles/01-使用手册/2-配置设置/asserts/Pasted image 20250620164809.png",
-    "docs/articles/01-使用手册/2-配置设置/asserts/Pasted image 20250620165140.png",
     "docs/articles/01-使用手册/2-配置设置/asserts/Pasted image 20250620164712.png",
     "docs/articles/01-使用手册/1-快速入门/5-安卓Android使用教程.md",
     "docs/articles/01-使用手册/1-快速入门/image-1.png",

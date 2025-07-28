@@ -34,7 +34,7 @@ V2RayNG 是一个基于 V2Ray 内核的 Android 应用，适用于安卓手机�
 ![|263x598](asserts/Pasted%20image%2020250620164751.png)
 
 （10）初次使用需点击”确定“以启用 VPN 。
-![|268x610](asserts/Pasted%20image%2020250620164809.png)
+
 
 （11）看到手机状态栏出现了 VPN 图标，意味着你已经成功接入了从电脑上获取的节点。试着访问一下www.google.com。
 ![[image-1.png|278x632]]
@@ -212,7 +212,7 @@ V2RayNG 是一个基于 V2Ray 内核的 Android 应用，适用于安卓手机�
 
 至此，通过订阅地址方式添加代理服务器就成功了，如果是通过订阅地址添加的节点服务器，会在当前节点的列表右上角显示刚才添加订阅设置时候输入的备注，如下图所示。
 
-[![v2rayNG 订阅分组设置更新订阅成功](https://v2rayng.org/wp-content/uploads/2024/02/1707374269-v2rayNG-System-Subscription-Update-Success-457x1024.jpg)](https://v2rayng.org/wp-content/uploads/2024/02/1707374269-v2rayNG-System-Subscription-Update-Success.jpg)
+[![v2rayNG 订阅分组设置更新订阅成功|457x1024](https://v2rayng.org/wp-content/uploads/2024/02/1707374269-v2rayNG-System-Subscription-Update-Success-457x1024.jpg)](https://v2rayng.org/wp-content/uploads/2024/02/1707374269-v2rayNG-System-Subscription-Update-Success.jpg)
 
 （订阅设置更新订阅成功）
 
