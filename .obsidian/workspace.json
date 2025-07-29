@@ -11,17 +11,30 @@
             "id": "9e9cd6faf11e0d7e",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "docs/articles/01-使用手册/2-配置设置/asserts/image 1.png"
+              },
+              "icon": "lucide-image",
+              "title": "image 1"
+            }
+          },
+          {
+            "id": "237e1aca9352413e",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/articles/01-使用手册/1-快速入门/5-安卓Android使用教程.md",
+                "file": "docs/articles/01-使用手册/1-快速入门/6-iOS使用教程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5-安卓Android使用教程"
+              "title": "6-iOS使用教程"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 297.5
   },
   "right": {
     "id": "2b6bc6cf5c494b03",
@@ -94,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/articles/01-使用手册/1-快速入门/6-iOS使用教程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "6-iOS使用教程 的反向链接列表"
             }
           },
           {
@@ -141,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/articles/01-使用手册/1-快速入门/5-安卓Android使用教程.md",
+                "file": "docs/articles/01-使用手册/1-快速入门/6-iOS使用教程.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "5-安卓Android使用教程 的大纲"
+              "title": "6-iOS使用教程 的大纲"
             }
           },
           {
@@ -190,40 +204,41 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "9e9cd6faf11e0d7e",
+  "active": "f9f8292165b0dfab",
   "lastOpenFiles": [
-    "docs/articles/01-使用手册/1-快速入门/asserts/image-1.png",
-    "docs/articles/01-使用手册/1-快速入门/5-安卓Android使用教程.md",
-    "docs/articles/01-使用手册/1-快速入门/asserts/v2rayn-icon.png",
-    "asserts/v2rayn-icon.png",
-    "asserts/1707367800-v2rayNG-Interface.jpg",
-    "2025-07-28.md",
-    "未命名.canvas",
-    "docs/articles/01-使用手册/1-快速入门/asserts/Pasted image 20250620164751.png",
-    "asserts",
-    "docs/articles/01-使用手册/2-配置设置/asserts/Pasted image 20250620164712 1.png",
-    "docs/articles/01-使用手册/2-配置设置/asserts/Pasted image 20250620164712.png",
-    "docs/articles/01-使用手册/2-配置设置/asserts/Pasted image 20250620164658.png",
-    "docs/articles/03-常见问题/软件问题/index.md",
-    "docs/articles/03-常见问题/软件问题/Pasted image 20250620164712 1.png",
-    "docs/articles/03-常见问题/非软件问题/connection.md",
-    "docs/articles/01-使用手册/1-快速入门/asserts/00 1.jpg",
-    "docs/articles/01-使用手册/1-快速入门/asserts/01.jpg",
-    "docs/articles/01-使用手册/1-快速入门/6-苹果iOS使用教程.md",
+    "docs/articles/01-使用手册/1-快速入门/5-Android 使用教程.md",
+    "docs/articles/01-使用手册/1-快速入门/6-iOS使用教程.md",
     "docs/articles/01-使用手册/1-快速入门/7-梯子相关知识合集.md",
     "docs/articles/01-使用手册/1-快速入门/4-Windows 使用教程.md",
-    "docs/articles/01-使用手册/1-快速入门/3-解决办法.md",
+    "docs/articles/01-使用手册/1-快速入门/3-科学上网的最佳实践.md",
+    "docs/articles/01-使用手册/2-配置设置/1-PC端配置入门.md",
+    "docs/articles/01-使用手册/2-配置设置/2-Android配置入门.md",
+    "docs/articles/02-应用场景/Telegram国内注册使用方法.md",
+    "docs/articles/02-应用场景/编程开发/api-examples.md",
+    "docs/articles/01-使用手册/1-快速入门/index.md",
     "docs/articles/01-使用手册/1-快速入门/2-一分钟入门.md",
     "docs/articles/01-使用手册/1-快速入门/1-魔法科学V2Plus诞生记.md",
+    "docs/articles/01-使用手册/1-快速入门/asserts/2025-07-29_165003.png",
+    "docs/articles/01-使用手册/1-快速入门/asserts/企业微信截图_17537754514248.png",
+    "docs/articles/01-使用手册/1-快速入门/asserts/Quicker_20250729_154528 1.png",
+    "docs/articles/01-使用手册/1-快速入门/asserts/Quicker_20250729_154528.png",
+    "docs/articles/01-使用手册/1-快速入门/asserts/Quicker_20250729_151659.png",
     "docs/articles/01-使用手册/3-高级进阶/index.md",
-    "docs/articles/01-使用手册/1-快速入门/index.md",
+    "docs/articles/01-使用手册/1-快速入门/asserts/谷歌界面.jpg",
+    "docs/articles/01-使用手册/2-配置设置/image.png",
+    "docs/articles/01-使用手册/2-配置设置/asserts/image-1.png",
+    "docs/articles/01-使用手册/2-配置设置/asserts/image 1.png",
+    "docs/articles/01-使用手册/2-配置设置/asserts/image.png",
+    "2025-07-28.md",
+    "未命名.canvas",
+    "asserts",
+    "docs/articles/03-常见问题/软件问题/index.md",
+    "docs/articles/03-常见问题/非软件问题/connection.md",
     "docs/articles/04-业务推广/分成/index.md",
     "docs/articles/04-业务推广/分成/Nginx常用命令.md",
     "docs/index.md",
-    "docs/articles/02-应用场景/Telegram国内注册使用方法.md",
     "docs/articles/02-应用场景/AI应用/index.md",
     "docs/articles/02-应用场景/编程开发/markdown-examples.md",
-    "docs/articles/02-应用场景/编程开发/api-examples.md",
     "docs/articles/01-使用手册/index.md"
   ]
 }

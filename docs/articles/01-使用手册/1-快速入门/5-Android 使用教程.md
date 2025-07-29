@@ -1,83 +1,91 @@
-# V2PIus 之安卓使用教程
+# V2PIus-Android使用教程
 
 V2RayNG 是一个基于 V2Ray 内核的 Android 应用，适用于安卓手机及支持部分基于安卓 TV 系统的电视或者电视盒子。
 
-### 下载 v2rayNG 共享电脑端的订阅
+### 下载 V2rayNG 共享电脑端的订阅
 
-（1） 使用手机浏览器打开以下网址：https://github.com/2dust/v2rayNG/releases
-下滑找到“Latest”（最新版），点击下载通用安装包
-如果你的网络暂时无法访问 GitHub，
-请下载网盘链接中提供的文件（链接）
+使用手机浏览器打开以下网址：https://github.com/2dust/v2rayNG/releases，下滑找到“Latest”（最新版），点击下载通用安装包，如果你的网络暂时无法访问 GitHub，请下载网盘链接中提供的文件（链接）。
+
 ![|283x613](asserts/Pasted%20image%2020250620164245.png)
 
-（2）安装后你的手机桌面上就出现了这款软件，打开它。
+安装后你的手机桌面上就出现了这款软件，打开它。
 
 ![](asserts/v2rayn-icon.png)
-（3）现在让我们回到电脑上，打开 V2Plus，单击选择一个可用的节点 。
+
+现在让我们回到电脑上，打开 V2Plus，单击选择一个可用的节点 。
+
 ![|514x399](asserts/Pasted%20image%2020250620164355.png)
 
-（4）直接按下快捷键`ctrl + F`，或者右键单击节点，选择”分享服务器“ 。
+直接按下快捷键'Ctrl+F'，或者右键单击节点，选择”分享服务器“ 。
+
 ![|517x465](asserts/Pasted%20image%2020250620164432.png)
 
-（5）此时屏幕上出现了一个二维码 。
+此时屏幕上出现了一个二维码 。
+
 ![|518x404](asserts/Pasted%20image%2020250620164629.png)
-（6）现在回到手机上的 v2rayNG，点击右上角的加号 。
+
+现在回到手机上的 V2rayNG，点击右上角的加号 。
+
 ![|259x589](asserts/Pasted%20image%2020250620164658.png)
 
-（7）点击”扫描二维码“ 。
+点击”扫描二维码“ 。
+
 ![|260x592](asserts/Pasted%20image%2020250620164712.png)
 
-（8）点击右上角的扫描图标，然后扫描电脑屏幕上的二维码 。
+点击右上角的扫描图标，然后扫描电脑屏幕上的二维码 。
 
-（9）此时你的安卓手机就获取到了电脑上分享的节点，点击右下角的运行按钮 。
+此时你的安卓手机就获取到了电脑上分享的节点，点击右下角的运行按钮 。
+
 ![|263x598](asserts/Pasted%20image%2020250620164751.png)
 
-（10）初次使用需点击”确定“以启用 VPN 。
+初次使用需点击”确定“以启用 VPN 。
 
+看到手机状态栏出现了 VPN 图标，意味着你已经成功接入了从电脑上获取的节点。试着访问一下www.google.com。
 
-（11）看到手机状态栏出现了 VPN 图标，意味着你已经成功接入了从电脑上获取的节点。试着访问一下www.google.com。
 ![[asserts/image-1.png|278x632]]
+
 显示此页面就证明成功！
 
-- 如果 VPN 已经启动，却无法正常访问谷歌。这可能是节点的问题，请尝试在电脑上分享一个可用的节点到手机上来进行连接。
+**PS：** 如果 VPN 已经启动，却无法正常访问谷歌。这可能是节点的问题，请尝试在电脑上分享一个可用的节点到手机上来进行连接。
 
-当然 v2rayNG 作为 Android 系统即安卓手机系统下的代理软件客户端，我们可以在 Google play 上搜索到。
+当然 V2rayNG 作为 Android 系统即安卓手机系统下的代理软件客户端，我们可以在 Google play 上搜索到。
 
-### 一、界面预览
+
+## **1**、界面预览
 
 [![v2rayNG Google Play 界面|650x433](https://v2rayng.org/wp-content/uploads/2022/09/1663176298-v2rayNG-Google-Play-Snapshot-1024x683.jpg)](https://v2rayng.org/wp-content/uploads/2022/09/1663176298-v2rayNG-Google-Play-Snapshot.jpg)
 （Google Play 界面）
 
-### 二、v2rayNG 下载
+## **2**、v2rayNG 下载
 
 可进入本站的[最新版下载](https://v2rayng.org/v2rayng-download/)专区进行下载，也可以选择以下的方式进行下载安装，当前最新版客户端使用  `Xray-core`  内核。
 
-#### 2.1 官网下载
+### **2.1** 官网下载
 
 **v2rayNG 官网**下载地址：[https://github.com/2dust/v2rayNG/releases](https://github.com/2dust/v2rayNG/releases)  新手使用建议下载稳定版本，即版本号后标记为  `Latest`  的版本。
 
-#### 2.2 谷歌应用商店下载
+### **2.2** 谷歌应用商店下载
 
 可以访问 Google Paly 即 Google 应用商店的朋友可以直接在商店搜索 v2rayNG 或打开应用商店地址：[https://play.google.com/store/apps/details?id=com.v2ray.ang](https://play.google.com/store/apps/details?id=com.v2ray.ang)  直接下载并在线安装。
 
-### 三、安装教程
+## **3**、安装教程
 
-安装教程很简单，如果是通过应用商店下载的，那么直接根据提示下载并安装即可，如果是通过官网下载或其他第三方下载的，下载完后获得文件为  `v2rayNG_x.x.x.apk`  文件，其中后缀  `.apk`  为安卓系统的安装包，`x.x.x`  代表版本号，然后点击安装即可，十分简单。
+安装教程很简单，如果是通过应用商店下载的，那么直接根据提示下载并安装即可，如果是通过官网下载或其他第三方下载的，下载完后获得文件为 'v2rayNG_x.x.x.apk'文件，其中后缀 '.apk'  为安卓系统的安装包，'x.x.x'代表版本号，然后点击安装即可，十分简单。
 
 安装完后，打开软件进入主界面，即配置文件界面，如下图所示。
 
 
 （v2rayNG 主界面）
 
-### 四、节点
+## **4**、节点
 
 节点即软件中的**配置文件**，在使用之前，首先需要添加一个 **v2rayNG 节点**  即服务端才能使用代理上网功能。
 
-#### 4.1 免费节点
+### **4.1 免费节点**
 
 由于软件支持 VMess、VLESS、Shadowsocks、Socks、Trojan、Wireguard 等代理协议，如需**免费节点**可以使用 Windows 端的免费代理软件 **V2Plus** 向安卓端共享节点，这样无论是电脑还是手机都可以免费代理上网了。
 
-#### 4.2 自己搭建节点
+### **4.2 自己搭建节点**
 
 如果对稳定性要求高且有一定的技术基础，推荐自己搭建节点，速度有保证且安全性也最高，具体搭建教程可参考下面的链接。
 
@@ -86,19 +94,21 @@ V2RayNG 是一个基于 V2Ray 内核的 Android 应用，适用于安卓手机�
 - [Shadowsocks 搭建](https://www.linuxsss.com/) (SS)
 - [Trojan 搭建](https://www.linuxtrojan.com/)
 
-### 五、添加配置文件
+## **5**、添加配置文件
 
 获得节点服务器信息后，就可以开始添加配置文件了，点击软件主界面右上角的 ➕ 号按钮即可出现添加配置文件选项，如上图 V2rayNG 主界面所示，根据不同的节点添加不同的节点服务器配置文件。
 
 [![v2rayNG 添加配置文件|649x726](https://v2rayng.org/wp-content/uploads/2024/02/1707373922-v2rayNG-add-Config-File-915x1024.jpg)](https://v2rayng.org/wp-content/uploads/2024/02/1707373922-v2rayNG-add-Config-File.jpg)
 （添加配置文件）
 
-#### 5.1 扫描二维码（推荐!!!)
+### **5.1 扫描二维码（推荐!!!)**
 
 首先，从电脑上打开免费上网工具 V2Plus
 下载链接 https://gofile.io/d/NbgZX8
 备用链接 https://www.mediafire.com/file/7msuyqnxbl4ilmn/v2plus-windows-x64-0617.7z/file
-其次，选择一个可用的节点，并按下快捷键 ctrl+F，或者右键单击节点并选择分享节点。![|517x465](../2-配置设置/asserts/Pasted%20image%2020250620164432.png)
+其次，选择一个可用的节点，并按下快捷键 ctrl+F，或者右键单击节点并选择分享节点。
+
+![|517x465](../2-配置设置/asserts/Pasted%20image%2020250620164432.png)
 
 接着，操作完成后会弹出用于分享节点的二维码和链接。
 
@@ -107,10 +117,9 @@ V2RayNG 是一个基于 V2Ray 内核的 Android 应用，适用于安卓手机�
 最后，服务器节点的二维码图片或者把二维码图片保存至手机，然后点击软件主界面右上角的 ➕ 号按钮即可出现添加配置文件选项，选择扫描二维码，扫描电脑屏幕上的二维码或选择从手机相册打开二维码图片扫描配置文件二维码即可导入节点信息，如下图所示。
 
 [![v2rayNG 添加配置文件扫描二维码|649x726](https://v2rayng.org/wp-content/uploads/2024/02/1707373947-v2rayNG-add-Server-from-QRcode-915x1024.jpg)](https://v2rayng.org/wp-content/uploads/2024/02/1707373947-v2rayNG-add-Server-from-QRcode.jpg)
-
 （添加配置文件扫描二维码）
 
-#### 5.2 从剪贴板导入
+### **5.2 从剪贴板导入**
 
 首先复制节点服务器的连接地址，不同协议的地址如下所示。
 
@@ -125,150 +134,134 @@ V2RayNG 是一个基于 V2Ray 内核的 Android 应用，适用于安卓手机�
 然后点击软件主界面右上角的 ➕ 号按钮即可出现添加配置文件选项，选择从剪贴板导入配置文件即可，如下图所示。
 
 [![v2rayNG 添加配置文件从剪贴板导入|649x726](https://v2rayng.org/wp-content/uploads/2024/02/1707373987-v2rayNG-add-Server-from-Clipboard-915x1024.jpg)](https://v2rayng.org/wp-content/uploads/2024/02/1707373987-v2rayNG-add-Server-from-Clipboard.jpg)
-
 （添加配置文件从剪贴板导入）
 
-#### 5.3 手动输入[Vmess]
+### **5.3 手动输入[Vmess]**
 
-配置**V2Ray 节点**，通过点击软件主界面右上角的 ➕ 号按钮即可出现添加配置文件选项，选择`手动输入[Vmess]`即可，如下图所示。
+配置**V2Ray 节点**，通过点击软件主界面右上角的 ➕ 号按钮即可出现添加配置文件选项，选择'手动输入[Vmess]'即可，如下图所示。
 
-[![v2rayNG 添加配置文件V2Ray 节点 Vmess 信息](https://v2rayng.org/wp-content/uploads/2024/02/1707374028-v2rayNG-add-Server-VMess-Server-915x1024.jpg)](https://v2rayng.org/wp-content/uploads/2024/02/1707374028-v2rayNG-add-Server-VMess-Server.jpg)
-
+[![v2rayNG 添加配置文件V2Ray 节点 Vmess 信息|649x726](https://v2rayng.org/wp-content/uploads/2024/02/1707374028-v2rayNG-add-Server-VMess-Server-915x1024.jpg)](https://v2rayng.org/wp-content/uploads/2024/02/1707374028-v2rayNG-add-Server-VMess-Server.jpg)
 （添加配置文件 V2Ray 节点 Vmess 信息）
 
 在弹出的窗口中手动输入 V2Ray 节点信息，即可配置 V2Ray 服务器信息，然后点击右上角的 ✔ 按钮，即可添加 V2Ray 代理服务器。
 
-#### 5.4 手动输入[VLESS]
+### **5.4 手动输入[VLEss]**
 
-配置**Xray 节点**，通过点击软件主界面右上角的 ➕ 号按钮即可出现添加配置文件选项，选择`手动输入[VLESS]`即可，如下图所示。
+配置**Xray 节点**，通过点击软件主界面右上角的 ➕ 号按钮即可出现添加配置文件选项，选择'手动输入[VLESS]’即可，如下图所示。
 
 [![v2rayNG 添加配置文件 Xray 节点 VLESS 信息|649x726](https://v2rayng.org/wp-content/uploads/2024/02/1707374053-v2rayNG-add-Server-VLESS-Server-915x1024.jpg)](https://v2rayng.org/wp-content/uploads/2024/02/1707374053-v2rayNG-add-Server-VLESS-Server.jpg)
-
 （添加配置文件 Xray 节点 VLESS 信息）
 
 在弹出的窗口中手动输入 Xray 节点信息，即可配置 Xray 服务器信息，然后点击右上角的 ✔ 按钮，即可添加 Xray 代理服务器。
 
-#### 5.5 手动输入[Shadowsocks]
+### **5.5 手动输入[Shadowsocks]**
 
-配置**Shadowsocks 节点**，通过点击软件主界面右上角的 ➕ 号按钮即可出现添加配置文件选项，选择`手动输入[Shadowsocks]`即可，如下图所示。
+配置**Shadowsocks 节点**，通过点击软件主界面右上角的 ➕ 号按钮即可出现添加配置文件选项，选择‘手动输入[Shadowsocks]'即可，如下图所示。
 
 [![v2rayNG 添加配置文件 Shadowsocks 节点信息](https://v2rayng.org/wp-content/uploads/2024/02/1707374113-v2rayNG-add-Server-Shadowsocks-Server-915x1024.jpg)](https://v2rayng.org/wp-content/uploads/2024/02/1707374113-v2rayNG-add-Server-Shadowsocks-Server.jpg)
-
 （添加配置文件 Shadowsocks 节点信息）
 
 在弹出的窗口中手动输入 Shadowsocks 节点信息，即可配置 Shadowsocks 服务器信息，然后点击右上角的 ✔ 按钮，即可添加 Shadowsocks 代理服务器。
 
-#### 5.6 手动输入[Socks]
+### **5.6 手动输入[Socks]**
 
-配置**Socks 节点**，通过点击软件主界面右上角的 ➕ 号按钮即可出现添加配置文件选项，选择`手动输入[Socks]`即可，如下图所示。
+配置**Socks 节点**，通过点击软件主界面右上角的 ➕ 号按钮即可出现添加配置文件选项，选择'手动输入[Socks]'即可，如下图所示。
 
 [![v2rayNG 添加配置文件 Socks 节点信息|649x726](https://v2rayng.org/wp-content/uploads/2024/02/1707374135-v2rayNG-add-Server-Socks-Server-915x1024.jpg)](https://v2rayng.org/wp-content/uploads/2024/02/1707374135-v2rayNG-add-Server-Socks-Server.jpg)
-
 （添加配置文件 Socks 节点信息）
 
 在弹出的窗口中手动输入 Socks 节点信息，即可配置 Socks 服务器信息，然后点击右上角的 ✔ 按钮，即可添加 Socks 代理服务器。
 
-#### 5.7 手动输入[Trojan]
+### **5.7 手动输入[Trojan]**
 
-配置**Trojan 节点**，通过点击软件主界面右上角的 ➕ 号按钮即可出现添加配置文件选项，选择`手动输入[Trojan]`即可，如下图所示。
+配置**Trojan 节点**，通过点击软件主界面右上角的 ➕ 号按钮即可出现添加配置文件选项，选择'手动输入[Trojan]'即可，如下图所示。
 
 [![v2rayNG 添加配置文件 Trojan 节点信息](https://v2rayng.org/wp-content/uploads/2024/02/1707374158-v2rayNG-add-Server-Trojan-Server-915x1024.jpg)](https://v2rayng.org/wp-content/uploads/2024/02/1707374158-v2rayNG-add-Server-Trojan-Server.jpg)
-
 （添加配置文件 Trojan 节点信息）
 
 在弹出的窗口中手动输入 Trojan 节点信息，即可配置 Trojan 服务器信息，然后点击右上角的 ✔ 按钮，即可添加 Trojan 代理服务器。
 
-#### 5.8 手动输入[Wireguard]
+### **5.8 手动输入[Wireguard]**
 
-配置**Wireguard 节点**，通过点击软件主界面右上角的 ➕ 号按钮即可出现添加配置文件选项，选择`手动输入[Wireguard]`即可，如下图所示。
+配置**Wireguard 节点**，通过点击软件主界面右上角的 ➕ 号按钮即可出现添加配置文件选项，选择'手动输入[Wireguard]'即可，如下图所示。
 
 ![v2rayNG 添加配置文件 Wireguard 节点信息](https://v2rayng.org/wp-content/uploads/2024/02/1707374176-v2rayNG-add-Server-Wireguard-Server-915x1024.jpg)
-
 （添加配置文件 Wireguard 节点信息）
 
 在弹出的窗口中手动输入 Wireguard 节点信息，即可配置 Wireguard 服务器信息，然后点击右上角的 ✔ 按钮，即可添加 Wireguard 代理服务器。
 
-#### 5.9 订阅地址方式
+### **5.9 订阅地址方式**
 
 软件支持直接使用机场订阅链接来添加节点信息，如下图所示点击软件主界面左上角`三道杠`按钮，在弹出窗口进入系统设置界面，然后点击订阅设置，如下图所示。
 
 [![v2rayNG 系统设置界面订阅分组设置](https://v2rayng.org/wp-content/uploads/2024/02/1707374197-v2rayNG-System-Subscription-915x1024.jpg)](https://v2rayng.org/wp-content/uploads/2024/02/1707374197-v2rayNG-System-Subscription.jpg)
-
 （系统设置界面订阅分组设置）
 
 在弹出的订阅设置主界面，点击右上角的 ➕ 号按钮即可出现添加订阅界面，在备注处输入自己能区分这个订阅节点的内容，然后在地址(url)处输入订阅地址，最后点击右上角的 ✔ 按钮，即可添加订阅地址，如下图所示。
 
 [![v2rayNG 订阅分组设置添加订阅配置文件](https://v2rayng.org/wp-content/uploads/2024/02/1707374229-v2rayNG-System-Subscription-Setting-915x1024.jpg)](https://v2rayng.org/wp-content/uploads/2024/02/1707374229-v2rayNG-System-Subscription-Setting.jpg)
-
 （订阅分组设置添加订阅配置文件）
 
-最后也是最重要的一步，返回到软件主界面，然后点击最右上角的`三束点`按钮，在弹出界面选择更新订阅，如下图所示。
+最后也是最重要的一步，返回到软件主界面，然后点击最右上角的'三束点'按钮，在弹出界面选择更新订阅，如下图所示。
 
 [![v2rayNG 订阅分组设置更新订阅](https://v2rayng.org/wp-content/uploads/2024/02/1707374249-v2rayNG-System-Subscription-Update-915x1024.jpg)](https://v2rayng.org/wp-content/uploads/2024/02/1707374249-v2rayNG-System-Subscription-Update.jpg)
-
 （订阅设置更新订阅）
 
 至此，通过订阅地址方式添加代理服务器就成功了，如果是通过订阅地址添加的节点服务器，会在当前节点的列表右上角显示刚才添加订阅设置时候输入的备注，如下图所示。
 
 [![v2rayNG 订阅分组设置更新订阅成功|457x1024](https://v2rayng.org/wp-content/uploads/2024/02/1707374269-v2rayNG-System-Subscription-Update-Success-457x1024.jpg)](https://v2rayng.org/wp-content/uploads/2024/02/1707374269-v2rayNG-System-Subscription-Update-Success.jpg)
-
 （订阅设置更新订阅成功）
 
-### 六、使用教程
+## **6**、使用教程
 
-#### 6.1 代理服务器
+### **6.1 代理服务器**
 
 在软件的主界面中可以看到自己通过手动添加或者订阅设置添加的所有代理服务器列表，其中每一条代理服务器最左边的竖条代表选定服务器的状态，其中有黑色竖条的代表选中，无黑色竖条的代表未选中，如下图所示。
 
 [![v2rayNG 配置文件状态](https://v2rayng.org/wp-content/uploads/2024/02/1707374297-v2rayNG-Node-Status-457x1024.jpg)](https://v2rayng.org/wp-content/uploads/2024/02/1707374297-v2rayNG-Node-Status.jpg)
-
 （配置文件状态）
 
 每一条代理服务器的操作都可以在这里进行，右边三个图标分别代表分享节点服务器、编辑节点服务器、删除节服务器，如下图所示。
 
 [![v2rayNG 配置文件操作](https://v2rayng.org/wp-content/uploads/2024/02/1707374319-v2rayNG-Node-Config-457x1024.jpg)](https://v2rayng.org/wp-content/uploads/2024/02/1707374319-v2rayNG-Node-Config.jpg)
-
 （配置文件操作）
 
-##### 6.1.1 启动代理服务器
+#### **6.1.1 启动代理服务器**
 
 点击软件主界面右下角的 V 字图标启动代理，首次配置会提示是否创建代理，即软件界面中的网络链接请求，点击确定启动，如下图所示。
 
 [![v2rayNG 启动代理服务器](https://v2rayng.org/wp-content/uploads/2024/02/1707374344-v2rayNG-Node-Start-915x1024.jpg)](https://v2rayng.org/wp-content/uploads/2024/02/1707374344-v2rayNG-Node-Start.jpg)
-
 （启动代理服务器）
 
 启动成功后，主界面右下角的软件图标变为橙色代表启动成功，如下图所示。
 
 ![v2rayNG 启动成功](https://v2rayng.org/wp-content/uploads/2024/02/1707374365-v2rayNG-Node-Start-Success-457x1024.jpg)
-
 （启动成功）
 
-##### 6.1.2 切换代理服务器
+#### **6.1.2 切换代理服务器**
 
 在有多条代理服务器的时候，只需要直接点击想要链接的那条代理服务器，即可切换代理服务器，无论是未链接状态还是已链接状态，都可以进行切换。
 
-##### 6.1.3 分享代理服务器
+#### **6.1.3 分享代理服务器**
 
 可点击分享节点服务器图标，可直接生成二维码进行分享，也可以导出当前节点至剪切板，然后通过上面的从剪贴板操作导入节点服务器，如下图所示。
 
 [![v2rayNG 分享代理服务器](https://v2rayng.org/wp-content/uploads/2024/02/1707374389-v2rayNG-Node-Share-915x1024.jpg)](https://v2rayng.org/wp-content/uploads/2024/02/1707374389-v2rayNG-Node-Share.jpg)
-
 （分享代理服务器）
 
-##### 6.1.4 编辑代理服务器
+#### **6.1.4 编辑代理服务器**
 
 编辑代理服务器和添加代理服务器原理一样，就不做阐述了。
 
-##### 6.1.5 删除代理服务器
+#### **6.1.5 删除代理服务器**
 
 点击删除节点服务器图标，即可删除代理服务器。
 
-#### 6.2 路由设置
+### **6.2 路由设置**
 
 路由设置的原理是将入站数据按需求由不同的出站链接发出，从而达到按需代理的目的。这一功能的常见用法是分流国内外流量，可以通过内部机制判断不同地区的流量，然后将他们发送到不同的出站代理，在 v2rayNG 中，有三种路由配置可以设置，分别是域名策略、自定义规则、预定义规则。
 
-##### 6.2.1 域名策略
+#### **6.2.1** 域名策略
 
 在域名策略中，系统一共内置了三种域名策略可以选择。
 
@@ -278,11 +271,11 @@ V2RayNG 是一个基于 V2Ray 内核的 Android 应用，适用于安卓手机�
 
 根据不同的需求选择合适的域名策略，一般默认即可。
 
-##### 6.2.2 自定义规则
+#### **6.2.2 自定义规则**
 
 在自定义规则中，可通过自定义来设置需要代理的网址或 IP、直连的网址或 IP、阻止的网址或 IP，从而达到个性化的代理需求。
 
-##### 6.2.3 预定义规则
+#### **6.2.3** 预定义规则
 
 新手推荐使用这个，在预定义规则中，系统已经内置好了不同的路由规则。
 
@@ -292,4 +285,4 @@ V2RayNG 是一个基于 V2Ray 内核的 Android 应用，适用于安卓手机�
 - 绕过局域网及大陆地址而后代理
 - 全局直连
 
-根据不同的需求选择合适的预定义规则，一般选择`绕过局域网及大陆地址而后代理`。
+根据不同的需求选择合适的预定义规则，一般选择'绕过局域网及大陆地址而后代理'。
