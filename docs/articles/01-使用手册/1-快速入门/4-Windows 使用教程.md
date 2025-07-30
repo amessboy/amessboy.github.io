@@ -298,8 +298,8 @@ V2plus下载地址： https://github.com/alwaysgot200/v2lib/releases/download/la
 ![](asserts/731.jpg)
 
 【不能用的一些常见问题】
-	1. V2Plus设置 -参数设置-> 传输层选TLS时候，跳过证书验证/允许行不安全连接 allowInsecure – 把此项勾选。
-	2. 若你用的谷歌浏览器，安装的有插件，建议先关闭所有插件开关再试，因为有可能有插件影响代理，会冲突。
-	3. 打开电脑浏览器，百度搜索‘北京时间’，再把电脑系统时间调节和北京时间一模一样，分秒不差，测试是否可以使用。
-	4. 提示缺少.NET Framework，就安装Microsoft.NET Framework [点击下载](https://www.microsoft.com/zh-cn/download/details.aspx?id=30653&6B49FDFB-8E5B-4B07-BC31-15695C5A2143=1) 安装 测试是否可以使用。
-	5. 下载最新版本 v2ray windows软件，找到V2Plus-Core.zip [点击下载v2rayN-Core.zip](https://github.com/2dust/v2rayN/releases) 测试是否可以使用。
+1. V2Plus设置 -参数设置-> 传输层选TLS时候，跳过证书验证/允许行不安全连接 allowInsecure – 把此项勾选。
+2. 若你用的谷歌浏览器，安装的有插件，建议先关闭所有插件开关再试，因为有可能有插件影响代理，会冲突。
+3. 打开电脑浏览器，百度搜索‘北京时间’，再把电脑系统时间调节和北京时间一模一样，分秒不差，测试是否可以使用。
+4. 提示缺少.NET Framework，就安装Microsoft.NET Framework [点击下载](https://www.microsoft.com/zh-cn/download/details.aspx?id=30653&6B49FDFB-8E5B-4B07-BC31-15695C5A2143=1) 安装 测试是否可以使用。
+5. 下载最新版本 v2ray windows软件，找到V2Plus-Core.zip [点击下载v2rayN-Core.zip](https://github.com/2dust/v2rayN/releases) 测试是否可以使用。
