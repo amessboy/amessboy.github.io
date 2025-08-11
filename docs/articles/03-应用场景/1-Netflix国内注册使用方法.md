@@ -1,13 +1,13 @@
 # 引言
 
-你是不是一位美剧爱好者？！那你是不是遇到过这些令人头痛的问题...
+你是不是一位美剧爱好者？！那你是不是遇到过这样一个令人头痛的问题...
 
 ![](asserts/15.06%201.png)
 
- 打开Netflix，根本无法打开.....
+ 想打开Netflix，但根本无法下载....
 
-那么下面这几步可以很好的解决这些问题，解锁全球Netflix资源。
-# 1. 下载及登录Netflix
+那么下面这几步可以很好的解决这个问题，解锁全球Netflix资源。
+# 1、下载及登录Netflix
 ### 方法一：在电脑上使用
 
 1. 打开浏览器访问： https://www.netflix.com （如果打不开，可使用文章末尾的魔法工具！）Netflix的界面如下图所示，然后输入邮箱进行登录（推荐使用谷歌邮箱！）
@@ -32,7 +32,7 @@
 
    提示：建议准备一个用于海外App下载的Apple ID，避免影响你主用账户。
    
-# **3.注册和订阅Netflix**
+# **2、注册和订阅Netflix**
 
 1. 进入Netflix官网，点击「注册」或「Start Your Free Trial」输入邮箱，设置密码。
 2. 选择套餐（基础、标准、高级）
@@ -48,23 +48,16 @@
 ![](asserts/2025-08-05_152130.png)
 
   小技巧：你可以用外区的App Store充值卡/礼品卡订阅Netflix，绕开信用卡限制。
-# **4.开启畅看模式**
+# **3、开启畅看模式**
 
 1. 登录Netflix后，系统会根据你当前IP地址（即VPN节点）展示对应国家的片库内容  。
    例如：美国节点 = 美区Netflix，内容最多最全。
 2. 记得确保科学上网工具始终运行，才能顺利访问Netflix及其内容（科学上网工具将在下点介绍）。
 3. Netflix支持中英字幕、原声/配音选择，适合练习听力或沉浸式追剧。
 
-# **5.上网问题**
+# **4、上网问题**
 
 科学上网是支持我们使用Netflix的关键，那么在这里可以提供一个魔法工具——V2Plus。
-   1. **V2plus的下载**
-     1.V2Plus官网 ： [V2Plus - 专业稳定的科学上网梯子服务 | 翻墙VPN代理 - V2Plus科学上网](http://www.v2plus.xyz/)
-     2.下载地址1： https://gofile.io/d/NbgZX8
-     3.下载地址2： https://github.com/alwaysgot200/v2lib/releases/download/latest/V2Plus-latest-win-x64.7z
-      4.备用地址： https://www.mediafire.com/file/7msuyqnxbl4ilmn/v2plus-windows-x64-0617.7z/file
-      
-2. 下载完成后点开到首界面，选择节点，回车，右击任务栏中的图标，选择自动配置系统代理。
 
 ![](asserts/2025-08-05_150004.png)
 

@@ -1,7 +1,7 @@
 
-## 节点配置
+## 1、 节点配置
 
-### [免费](https://www.haovps.top/tag/%E5%85%8D%E8%B4%B9/ "免费")节点
+### 免费节点
 
 通过[搜索引擎](https://www.haovps.top/tag/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E/ "搜索引擎")获取免费节点，支持 VMess、VLESS、Trojan、Socks、Shadowsocks 等协议。
 
@@ -18,8 +18,7 @@
 - [Trojan 搭建](https://www.haovps.top/go/aHR0cHM6Ly93d3cubGludXh0cm9qYW4uY29tLw)
 - [Shadowsocks 搭建](https://www.haovps.top/go/aHR0cHM6Ly93d3cubGludXhzc3MuY29tLw) (SS)
 
-## 添加[服务器](https://www.haovps.top/tag/tag-3985df2e6400657cc8388614aefd5def/ "服务器")
-
+## 2、添加服务器
 ### 订阅设置
 
 1. 点击主界面的 `订阅分组`，选择 `订阅分组设置`。
@@ -28,11 +27,13 @@
 
 ![](asserts/2025-08-05_111645.png)
 
+
 ### 剪贴板导入
 
 1. 复制节点地址（如 `vmess://` 或 `vless://`）。
 2. 点击主界面的 `服务器`，选择 `从剪贴板导入分享链接`。
-3. ![](asserts/8.5.png)
+
+![](asserts/8.5.png)
 
 ### 扫描二维码
 
@@ -40,7 +41,7 @@
 2. 点击主界面的 `服务器`，选择 `扫描屏幕上的二维码`。
 ![](asserts/11.27.png)
 
-## 使用教程
+## 3、使用教程
 
 ### 选择节点
 

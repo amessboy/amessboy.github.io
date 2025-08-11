@@ -2,7 +2,7 @@
 
 众所周知，Telegram上不仅有许多有趣的群组和免费的资源，还有能够提供各种实用功能的机器人BOT。
 这篇教程教你如何注册Telegram，本文的最后还会分享2025最新的Telegram群合集和全网最有趣好用的机器人BOT。
-# 1.下载和注册
+# 1、下载和注册
 1. Telegram的注册需要在手机上进行。
 2. Telegram的下载有两种方式
 	1. 在 Google 的”Play商店“中搜索”telegram“并点击下载，下载完成后会自动安装（如果你发现无法加载出Google网页，可以采用文章末尾的魔法工具）。
@@ -11,7 +11,7 @@
 4. 选择国家，并输入你的手机号。
 5. 点击确认。
 6. 输入验证码。
-# 2.Telegram群合集
+# 2、Telegram群合集
 - Durov’s Chat:[https://t.me/durovschat](https://t.me/durovschat)
 - 官方翻译支持群 English:[https://t.me/translation_en](https://t.me/translation_en)
 - 官方翻译支持群 简体中文 (聪聪):[https://t.me/translation_zhcncc](https://t.me/translation_zhcncc)
@@ -40,7 +40,7 @@
 - Telegram Desktop Talk:[https://t.me/TelegramDesktopTalk](https://t.me/TelegramDesktopTalk)
 - Telegram Windows Phone Talk:[https://t.me/TelegramWPtalk](https://t.me/TelegramWPtalk)
 
-# 3.机器人Bot
+# 3、机器人Bot
 ## 官方认证 Bot
 
 - [BotFather](https://t.me/BotFather) 是所有机器人的 god 了，Telegram 官方管理；可以用它创建机器人和管理机器人，你可以利用机器人 API, 帮你自己很多事情
@@ -66,7 +66,7 @@
 - [Telegram Bot：@BotsArchiveBot](https://t.me/BotsArchiveBot)
 - [Search Telegram Bots](https://botlist.infotelbot.com/) 一个按类型查找电报机器人网站
 
-# 4.上网问题
+# 4、上网问题
 
 科学上网是支持我们使用Netflix的关键，那么在这里可以提供一个魔法工具——V2Plus。
 
