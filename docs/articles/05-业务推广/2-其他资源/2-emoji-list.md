@@ -1,4 +1,4 @@
-# emoji-list
+ emoji-list
 
 ::: info
 emoji-list from <https://github.com/caiyongji/emoji-list>

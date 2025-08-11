@@ -18,8 +18,6 @@
 - [Trojan 搭建](https://www.haovps.top/go/aHR0cHM6Ly93d3cubGludXh0cm9qYW4uY29tLw)
 - [Shadowsocks 搭建](https://www.haovps.top/go/aHR0cHM6Ly93d3cubGludXhzc3MuY29tLw) (SS)
 
----
-
 ## 添加[服务器](https://www.haovps.top/tag/tag-3985df2e6400657cc8388614aefd5def/ "服务器")
 
 ### 订阅设置
@@ -28,23 +26,19 @@
 2. 点击 `添加`，输入别名和订阅地址，点击 `确定`。
 3. 点击 `更新全部订阅`，完成节点导入。
 
-![[asserts/image 1.png]]
-
+![](asserts/2025-08-05_111645.png)
 
 ### 剪贴板导入
 
 1. 复制节点地址（如 `vmess://` 或 `vless://`）。
-2. 点击主界面的 `服务器`，选择 `从剪贴板导入批量URL`。
-![[asserts/image-1.png]]
+2. 点击主界面的 `服务器`，选择 `从剪贴板导入分享链接`。
+3. ![](asserts/8.5.png)
 
 ### 扫描二维码
 
 1. 打开节点二维码图片。
 2. 点击主界面的 `服务器`，选择 `扫描屏幕上的二维码`。
-
-[](https://v2rayn.org/wp-content/uploads/2024/01/1706694536-v2rayN-add-Server-from-QRcode.jpg)
-
----
+![](asserts/11.27.png)
 
 ## 使用教程
 
@@ -52,24 +46,20 @@
 
 1. 在主界面选择节点，右键点击 `设为活动服务器`。
 2. 开启系统代理，图标变为红色即可使用。
-
-![[image.png]][](https://v2rayn.org/wp-content/uploads/2024/02/1707289273-v2rayN-Choose-Node.jpg)
+3. 
+![](asserts/2025-08-05_112822.png)
 
 ### 路由模式
 
-- ​**绕过大陆 (Whitelist)**​：仅代理白名单内的网站。
-- ​**黑名单 (Blacklist)**​：代理除黑名单外的所有网站。
-- ​**全局 (Global)**​：代理所有流量。
+- ​绕过大陆 (Whitelist)​：仅代理白名单内的网站。
+- ​黑名单 (Blacklist)​：代理除黑名单外的所有网站。
+- 全局 (Global)​：代理所有流量。
 
-[](https://v2rayn.org/wp-content/uploads/2024/01/1706695132-v2rayN-enable-Router-Mode.jpg)
+![](asserts/2025-08-05_113246.png)
 
 ### 开机自启动
 
-1. 点击主界面的 `设置`，选择 `参数设置`。
+1. 点击主界面的 `设置`，选择 `参数设置`，点击V2Plus设置。
 2. 勾选 `开机自动启动`，点击 `确认`。
 
-[![](https://v2rayn.org/wp-content/uploads/2024/01/1706695342-v2rayN-Settings-OptionSetting-v2rayN-Settings.jpg)](https://v2rayn.org/wp-content/uploads/2024/01/1706695342-v2rayN-Settings-OptionSetting-v2rayN-Settings.jpg)
-1. 在电脑上启动v2plus，点击“设置”，打开“参数设置”  
-    ![[asserts/image.png]]
-    
-2. 
+![](asserts/2025-08-05_113352.png)

@@ -19,14 +19,6 @@
       "wrap": false
     }
   },
-  "docs/articles/01-使用手册/1-快速入门/1-魔法科学V2Plus诞生记.md": {
-    "1177e276682cc96f210f7d51e3fe7363": {
-      "position": "left",
-      "width": "",
-      "height": "",
-      "wrap": false
-    }
-  },
   "docs/articles/01-使用手册/1-快速入门/4-Windows 使用教程.md": {
     "aa7b9c914dbb976ad004307adba1a027": {
       "position": "center",
@@ -68,37 +60,7 @@
     }
   },
   "docs/articles/01-使用手册/1-快速入门/5-Android 使用教程.md": {
-    "73739eb3e17a17b4f1addb23f3bd48e2": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
     "9740b040e93a6241de853b914c5c8e0d": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "0fdd5ceea6de957e5f44f26440df0784": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "5a39f792dc0511b89ca509ab13ce2ade": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "d83fca5343efca29ec133fe47e7d7163": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "68389f83c1288d50b7d6ae8119a42b8c": {
       "position": "center",
       "width": "",
       "height": "",
@@ -109,22 +71,28 @@
       "width": "",
       "height": "",
       "wrap": false
-    },
-    "e0d134845c76a87a6cd30f1cb1e511d0": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "18680c9415b40c029b5f148bf3546710": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
     }
   },
   "docs/articles/01-使用手册/1-快速入门/6-iOS使用教程.md": {
+    "87a5320f398c73d9f752aa60e74db8bb": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
     "be8800d922964bf15e6ac44648973d5a": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "c2e8a081c695895caa690c8b152b4a59": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "1de56eab82c9a4fdb3808bd4f7921afe": {
       "position": "center",
       "width": "",
       "height": "",

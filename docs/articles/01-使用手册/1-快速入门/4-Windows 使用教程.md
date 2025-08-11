@@ -1,13 +1,3 @@
----
-title: V2Plus Windows 教程 | shadowrocket
-source: https://shadowrocket-app.gitbook.io/shadowrocket/windows/v2rayn
-author: 
-published: 2024-04-04
-created: 2025-06-25
-description: V2rayN客户端是一个基于V2ray 内核的windows客户端，它目前支持Xray内核，然后也可以手动更新核心和客户端的版本。下载即用，数据可视化（能看到你访问的网址）、上手简单。
-tags:
-  - clippings
----
 # V2Plus-Windows使用教程
 
 V2Plus是Windows系统下的**免费**代理软件客户端，功能强大且支持多种代理协议，如VMess、VLESS、Trojan、Socks、Shadowsocks、Hysteria2、Tuic等代理协议。通过本文2025最新使用教程快速入门篇所掌握的技巧，能快速方便配置代理协议进行代理访问。
@@ -20,9 +10,10 @@ V2Plus是Windows系统下的**免费**代理软件客户端，功能强大且支
 ## **2**、下载软件
 
 **V2Plus官网** ： [V2Plus - 专业稳定的科学上网梯子服务 | 翻墙VPN代理 - V2Plus科学上网](http://www.v2plus.xyz/)
-下载地址： https://gofile.io/d/NbgZX8
-备用地址： https://www.mediafire.com/file/7msuyqnxbl4ilmn/v2plus-windows-x64-0617.7z/file
-V2plus下载地址： https://github.com/alwaysgot200/v2lib/releases/download/latest/V2Plus-latest-win-x64.7z
+**下载地址1**： https://gofile.io/d/NbgZX8
+**下载地址2**： https://github.com/alwaysgot200/v2lib/releases/download/latest/V2Plus-latest-win-x64.7z
+**备用地址**： https://www.mediafire.com/file/7msuyqnxbl4ilmn/v2plus-windows-x64-0617.7z/file
+
 ## **3**、安装教程
 ### **3.1**、软件目录
 
@@ -38,11 +29,11 @@ V2plus下载地址： https://github.com/alwaysgot200/v2lib/releases/download/la
 
 不同状态下软件的图标颜色是不一样的，参考下表图标颜色说明。
 
-| <center>图标</center>         | <center>软件状态</center>     | <center>说明</center>                  |
-| --------------------------- | ------------------------- | ------------------------------------ |
-| ![](asserts/清除系统代理%201.jpg) | <center>清除系统代理</center>   | 每次启动/重启服务的时候，强制把windows系统(ie)的代理清除掉。 |
-| ![](asserts/自动配置系统代理.jpg)   | <center>自动配置系统代理</center> | 每次启动/重启服务的时候，强制设定windows系统(ie)的代理。   |
-| ![](asserts/不改变系统代理.jpg)    | <center>不改变系统代理</center>  | 每次启动/重启服务的时候，什么都不做。作用就是保留其他软件设定的代理。  |
+| <center>图标</center>                | <center>软件状态</center>     | <center>说明</center>                  |
+| ---------------------------------- | ------------------------- | ------------------------------------ |
+| ![\|31x29](asserts/清除系统代理%201.jpg) | <center>清除系统代理</center>   | 每次启动/重启服务的时候，强制把windows系统(ie)的代理清除掉。 |
+| ![](asserts/自动配置系统代理.jpg)          | <center>自动配置系统代理</center> | 每次启动/重启服务的时候，强制设定windows系统(ie)的代理。   |
+| ![](asserts/不改变系统代理.jpg)           | <center>不改变系统代理</center>  | 每次启动/重启服务的时候，什么都不做。作用就是保留其他软件设定的代理。  |
 （图标状态说明）
 
 ## **4**、节点
@@ -77,28 +68,28 @@ V2plus下载地址： https://github.com/alwaysgot200/v2lib/releases/download/la
 
 ### **5.1** 订阅设置教程
 
- 一些代理机场往往会提供一个订阅地址，就可以使用订阅方式导入节点信息，点击软件主界面的 ‘订阅分组’， 点击’订阅分组设置‘ ，如下图所示：
+1.  一些代理机场往往会提供一个订阅地址，就可以使用订阅方式导入节点信息，点击软件主界面的 ‘订阅分组’， 点击’订阅分组设置‘ ，如下图所示：
 
 ![](asserts/331%201.jpg)
 （订阅分组）
 
- 在弹出的窗口中点击添加，如下图所示：
+2.  在弹出的窗口中点击添加，如下图所示：
 
 ![](asserts/341.jpg)
 （添加订阅分组）
 
- 随后在弹窗的窗口中，输入别名，在 ’在可选地址(UrL)' 部分粘贴订阅地址，点击添加，然后点击确定，如下图所示：
+ 3. 随后在弹窗的窗口中，输入别名，在 ’在可选地址(UrL)' 部分粘贴订阅地址，点击添加，然后点击确定，如下图所示：
 
 ![](asserts/351.jpg)
 （订阅分组设置）
 
- 添加完成后，点击软件主界面的‘订阅分组’，然后点击更新全部订阅(不通过代理)即可成功使用订阅地址添加节点信息，如下图所示：
+ 4. 添加完成后，点击软件主界面的‘订阅分组’，然后点击更新全部订阅(不通过代理)即可成功使用订阅地址添加节点信息，如下图所示：
 
 ![](asserts/411.jpg)
 
 ### **5.2** 剪贴板导入教程
 
-首先复制节点服务器的连接地址，不同协议的地址如下所示。
+1. 首先复制节点服务器的连接地址，不同协议的地址如下所示。
 
 - VMESS服务器即v2Ray节点地址： `vmess://`
 - VLESS服务器即Xray节点地址： `vless://`
@@ -106,12 +97,12 @@ V2plus下载地址： https://github.com/alwaysgot200/v2lib/releases/download/la
 - Socks服务器节点地址： `socks5://`
 - Trojan服务器节点地址： `trojan://
 
-单机鼠标右键复制或者使用键盘快捷键 `Ctrl+C` 复制节点地址，注意一定要复制全。
+  单机鼠标右键复制或者使用键盘快捷键 `Ctrl+C` 复制节点地址，注意一定要复制全。
 
 ![](asserts/421.jpg)
 （从剪贴板导入分享链接）
 
-然后点击软件主界面的‘服务器’，选择 **从剪贴板导入分享链接** 即可导入节点信息，如上图所示。
+2. 然后点击软件主界面的‘服务器’，选择 **从剪贴板导入分享链接** 即可导入节点信息，如上图所示。
 
 ### **5.3** 扫描屏幕二维码教程
 
@@ -122,106 +113,106 @@ V2plus下载地址： https://github.com/alwaysgot200/v2lib/releases/download/la
 
 ### **5.4** 配置**V2PIus**节点
 
-点击软件主界面的‘服务器’，选择 ‘添加[VMess]服务器’ ，如下图所示。
+1. 点击软件主界面的‘服务器’，选择 ‘添加[VMess]服务器’ ，如下图所示。
 
 ![](asserts/441.jpg)
 （添加V2PIus节点）
 
-在添加窗口输入V2PIus节点信息，即可配置V2PIus服务器信息，然后点击确定保存，如下图所示。
+2. 在添加窗口输入V2PIus节点信息，即可配置V2PIus服务器信息，然后点击确定保存，如下图所示。
 
 ![](asserts/451.jpg)
 （配置V2PIus节点信息）
 
 ### **5.5 配置**Xray节点
 
-点击软件主界面的‘服务器’ ，选择‘添加[VLESS]服务器’，如下图所示。
+1. 点击软件主界面的‘服务器’ ，选择‘添加[VLESS]服务器’，如下图所示。
 
 ![](asserts/461.jpg)
 （添加Xray节点）
 
-在添加窗口输入Xray节点信息，即可配置Xray服务器信息，然后点击确定保存，如下图所示。
+2. 在添加窗口输入Xray节点信息，即可配置Xray服务器信息，然后点击确定保存，如下图所示。
 
 ![](asserts/461jpg.jpg)
 （配置Xray节点信息）
 
 ### **5.6 配置**Shadowsocks节点
 
-点击软件主界面的‘服务器’ ，选择 ‘添加[Shadowsocks]服务器’，如下图所示。
+1. 点击软件主界面的‘服务器’ ，选择 ‘添加[Shadowsocks]服务器’，如下图所示。
 
 ![](asserts/481.jpg)
 （添加Shadowsocks节点）
 
-在添加窗口输入Shadowsocks节点信息，即可配置Shadowsocks服务器信息，然后点击确定保存，如下图所示。
+2. 在添加窗口输入Shadowsocks节点信息，即可配置Shadowsocks服务器信息，然后点击确定保存，如下图所示。
 
 ![](asserts/491.jpg)
 （配置Shadowsocks节点信息）
 
 ### **5.7 配置**Socks节点
 
-点击软件主界面的‘服务器’ ，选择 ‘添加[Socks]服务器’，如下图所示。
+1. 点击软件主界面的‘服务器’ ，选择 ‘添加[Socks]服务器’，如下图所示。
 
 ![](asserts/511.jpg)
 （添加Socks节点）
 
-在添加窗口输入Socks节点信息，即可配置Socks服务器信息，然后点击确定保存，如下图所示。
+2. 在添加窗口输入Socks节点信息，即可配置Socks服务器信息，然后点击确定保存，如下图所示。
 
 ![](asserts/521.jpg)
 （配置Socks节点信息）
 
 ### **5.8 配置**Trojan节点
 
-点击软件主界面的’服务器‘，选择 ’添加[Trojan]服务器‘，如下图所示。
+1. 点击软件主界面的’服务器‘，选择 ’添加[Trojan]服务器‘，如下图所示。
 
 ![](asserts/531.jpg)
 （添加Trojan节点）
 
-在添加窗口输入Trojan节点信息，即可配置Trojan服务器信息，然后点击确定保存，如下图所示。
+2. 在添加窗口输入Trojan节点信息，即可配置Trojan服务器信息，然后点击确定保存，如下图所示。
 
 ![](asserts/541.jpg)
 （配置Trojan节点信息）
 ### **5.9 配置**HTTP节点
 
-点击软件主界面的’服务器‘，选择 ’添加[HTTP]服务器‘ ，如下图所示。
+1. 点击软件主界面的’服务器‘，选择 ’添加[HTTP]服务器‘ ，如下图所示。
 
 ![](asserts/551.jpg)
 （添加HTTP节点）
 
-在添加窗口输入HTTP节点信息，即可配置HTTP服务器信息，然后点击确定保存，如下图所示。
+2. 在添加窗口输入HTTP节点信息，即可配置HTTP服务器信息，然后点击确定保存，如下图所示。
 
 ![](asserts/561.jpg)
 （配置HTTP节点信息）
 ### **5.10 配置**Hysteria2节点
 
-点击软件主界面的’服务器‘，选择 ’添加[Hysteria2]服务器‘，如下图所示。
+1. 点击软件主界面的’服务器‘，选择 ’添加[Hysteria2]服务器‘，如下图所示。
 
 ![](asserts/571.jpg)
 （添加Hysteria2节点）
 
-在添加窗口输入Hysteria2节点信息，即可配置Hysteria2服务器信息，然后点击确定保存，如下图所示。
+2. 在添加窗口输入Hysteria2节点信息，即可配置Hysteria2服务器信息，然后点击确定保存，如下图所示。
 
 ![](asserts/581.jpg)
 （配置Hysteria2节点信息）
 
 ### **5.11 配置**Tuic节点
 
-点击软件主界面的点击软件主界面的’服务器‘，选择’添加[Tuic]服务器‘，如下图所示。
+1. 点击软件主界面的点击软件主界面的’服务器‘，选择’添加[Tuic]服务器‘，如下图所示。
 
 ![](asserts/611.jpg)
 （添加Tuic节点）
 
-在添加窗口输入Tuic节点信息，即可配置Tuic服务器信息，然后点击确定保存，如下图所示。
+2. 在添加窗口输入Tuic节点信息，即可配置Tuic服务器信息，然后点击确定保存，如下图所示。
 
 ![](asserts/621.jpg)
 （配置Tuic节点信息）
 
 ### **5.12 配置**WireGuard节点
  
-点击软件主界面的 ’服务器‘，选择 ’添加[WireGuard]服务器‘，如下图所示。
+1. 点击软件主界面的 ’服务器‘，选择 ’添加[WireGuard]服务器‘，如下图所示。
 
 ![](asserts/631.jpg)
 （添加WireGuard节点）
 
-在添加窗口输入WireGuard节点信息，即可配置WireGuard服务器信息，然后点击确定保存，如下图所示。
+2. 在添加窗口输入WireGuard节点信息，即可配置WireGuard服务器信息，然后点击确定保存，如下图所示。
 
 ![](asserts/641.jpg)
 （配置WireGuard节点信息）
