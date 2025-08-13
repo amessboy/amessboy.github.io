@@ -33,11 +33,11 @@ hero:
 features:
   - title: 🚀 新手快速入门
     details: 无需复杂设置，下载即用，一键连接全球网络，支持Windows、Mac、iOS、Android等全平台
-    link: /articles/01-使用手册/1-快速入门/
+    link: /articles/01-使用手册/1-快速入门/2-一分钟入门.md
     linkText: 查看教程
   - title: 🛡️ 翻墙最佳实践
     details: 专业的科学上网技巧，V2Ray、Xray、Trojan配置教程，小火箭使用指南
-    link: /articles/02-应用场景/编程开发/
+    link: /articles/01-使用手册/1-快速入门/3-科学上网的最佳实践.md
     linkText: 查看详情
   - title: ⚡ 多协议支持
     details: 支持V2Ray、Xray、Trojan、VLESS、VMESS、Shadowsocks等主流协议，稳定高速
