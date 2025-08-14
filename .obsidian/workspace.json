@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/articles/01-使用手册/3-高级进阶/1-Tun模式.md",
+                "file": "docs/articles/02-常见问题/1-软件问题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-Tun模式"
+              "title": "1-软件问题"
             }
           }
         ]
@@ -191,7 +191,7 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "f9f8292165b0dfab",
+  "active": "b1bd1f429c90f51a",
   "lastOpenFiles": [
     "docs/articles/01-使用手册/3-高级进阶/3-高级设置.md",
     "docs/articles/01-使用手册/3-高级进阶/2-路由设置.md",

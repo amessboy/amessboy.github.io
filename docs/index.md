@@ -41,7 +41,7 @@ features:
     linkText: 查看详情
   - title: ⚡ 多协议支持
     details: 支持V2Ray、Xray、Trojan、VLESS、VMESS、Shadowsocks等主流协议，稳定高速
-    link: /articles/02-应用场景/
+    link: /articles/
     linkText: 了解更多
   - title: 🔧 全平台客户端
     details: 支持Windows、Mac、iOS、Android、Linux等全平台，小火箭、Clash等客户端配置
@@ -53,7 +53,7 @@ features:
     linkText: 配置教程
   - title: 🌍 海外访问无阻
     details: 稳定访问YouTube、Google、Twitter、Facebook、Instagram、TikTok、Netflix等海外网站
-    link: /articles/02-应用场景/AI应用/
+    link: /articles/03-应用场景/1-娱乐社交/1-Netflix国内注册使用方法.md
     linkText: 应用场景
   - title: 📚 办公学习必备
     details: 支持Google学术、GitHub、Stack Overflow等开发学习网站，提升工作效率
