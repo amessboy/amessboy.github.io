@@ -41,7 +41,7 @@ features:
     linkText: 查看详情
   - title: ⚡ 多协议支持
     details: 支持V2Ray、Xray、Trojan、VLESS、VMESS、Shadowsocks等主流协议，稳定高速
-    link: /articles/
+    link: /articles/01-使用手册/1-快速入门/4-Windows使用教程.md
     linkText: 了解更多
   - title: 🔧 全平台客户端
     details: 支持Windows、Mac、iOS、Android、Linux等全平台，小火箭、Clash等客户端配置

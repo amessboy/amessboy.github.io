@@ -4,5 +4,6 @@
   "newLinkFormat": "relative",
   "attachmentFolderPath": "./asserts",
   "showLineNumber": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
 }
