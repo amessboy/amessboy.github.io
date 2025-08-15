@@ -57,7 +57,7 @@ features:
     linkText: 应用场景
   - title: 📚 办公学习必备
     details: 支持Google学术、GitHub、Stack Overflow等开发学习网站，提升工作效率
-    link: /articles/02-应用场景/03-应用场景/3-科技学术/1-Chatgpt撰写论文好帮手.md
+    link: /articles/03-应用场景/3-科技学术/1-Chatgpt撰写论文好帮手.md
     linkText: 查看详情
   - title: 🎮 娱乐游戏加速
     details: 观看海外视频、玩国际游戏、访问Steam、Epic等游戏平台
