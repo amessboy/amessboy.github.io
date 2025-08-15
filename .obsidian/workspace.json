@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/articles/04-业务推广/index.md",
+                "file": "docs/articles/01-使用手册/2-配置设置/1-PC端配置入门.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "1-PC端配置入门"
             }
           }
         ]
@@ -193,6 +193,8 @@
   },
   "active": "dfbb0749ab1691f1",
   "lastOpenFiles": [
+    "docs/articles/01-使用手册/1-快速入门/2-一分钟入门.md",
+    "docs/articles/04-业务推广/index.md",
     "docs/articles/04-业务推广/asserts/2025-08-15_102807 1.png",
     "docs/articles/04-业务推广/1-分成/asserts/2025-08-15_101504.png",
     "docs/articles/02-常见问题/index.md",
@@ -217,9 +219,7 @@
     "docs/articles/03-应用场景/3-科技学术/asserts/2025-08-14_171108.png",
     "docs/articles/03-应用场景/3-科技学术/asserts/2025-08-14_170625.png",
     "docs/articles/03-应用场景/3-科技学术/asserts/2025-08-14_170453.png",
-    "docs/articles/03-应用场景/3-科技学术/asserts/2025-08-14_165856.png",
     "docs/articles/03-应用场景/index.md",
-    "docs/articles/04-业务推广/index.md",
     "docs/articles/03-应用场景/2-外贸/1-Midjourney入门真·保姆级教程.md",
     "docs/articles/03-应用场景/2-外贸/2-一份关于 zoom 的友好食用全面指南.md",
     "docs/articles/03-应用场景/1-娱乐社交/3-Telegram国内注册使用方法.md",

@@ -45,11 +45,11 @@ features:
     linkText: 了解更多
   - title: 🔧 全平台客户端
     details: 支持Windows、Mac、iOS、Android、Linux等全平台，小火箭、Clash等客户端配置
-    link: /articles/01-使用手册/2-配置设置/
+    link: /articles/01-使用手册/1-快速入门/6-iOS使用教程.md
     linkText: 下载客户端
   - title: 📱 小火箭配置
     details: 详细的Shadowrocket(小火箭)配置教程，一键导入订阅，轻松科学上网
-    link: /articles/04-业务推广/分成/
+    link: /articles/01-使用手册/2-配置设置/1-PC端配置入门.md
     linkText: 配置教程
   - title: 🌍 海外访问无阻
     details: 稳定访问YouTube、Google、Twitter、Facebook、Instagram、TikTok、Netflix等海外网站
@@ -57,15 +57,15 @@ features:
     linkText: 应用场景
   - title: 📚 办公学习必备
     details: 支持Google学术、GitHub、Stack Overflow等开发学习网站，提升工作效率
-    link: /articles/02-应用场景/编程开发/
+    link: /articles/02-应用场景/03-应用场景/3-科技学术/1-Chatgpt撰写论文好帮手.md
     linkText: 查看详情
   - title: 🎮 娱乐游戏加速
     details: 观看海外视频、玩国际游戏、访问Steam、Epic等游戏平台
-    link: /articles/03-常见问题/
+    link: /articles/03-应用场景/1-娱乐社交/2-Steam国内注册使用方法.md
     linkText: 游戏加速
   - title: 💼 外贸商务应用
     details: 跨境电商、海外业务沟通，访问国外学术资源，商务办公必备工具
-    link: /articles/02-应用场景/
+    link: /articles/03-应用场景/2-外贸/1-Midjourney入门真·保姆级教程.md
     linkText: 商务应用
 ---
 
