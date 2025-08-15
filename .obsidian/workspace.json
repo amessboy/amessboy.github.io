@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/articles/03-应用场景/2-外贸/2-一份关于zoom的友好食用全面指南.md",
+                "file": "docs/articles/02-常见问题/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2-一份关于zoom的友好食用全面指南"
+              "title": "index"
             }
           }
         ]
@@ -193,8 +193,8 @@
   },
   "active": "dfbb0749ab1691f1",
   "lastOpenFiles": [
-    "docs/articles/03-应用场景/2-外贸/asserts/2025-08-05_150004.png",
     "docs/articles/03-应用场景/2-外贸/2-一份关于zoom的友好食用全面指南.md",
+    "docs/articles/03-应用场景/2-外贸/asserts/2025-08-05_150004.png",
     "docs/articles/03-应用场景/2-外贸/asserts/2025-08-05_150004 1.png",
     "docs/articles/01-使用手册/3-高级进阶/index.md",
     "docs/articles/03-应用场景/1-娱乐社交/1-Netflix国内注册使用方法.md",
