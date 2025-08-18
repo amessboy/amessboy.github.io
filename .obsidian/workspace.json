@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/articles/02-常见问题/1-软件问题/index.md",
+                "file": "docs/articles/02-常见问题/1-软件问题/软件问题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "软件问题"
             }
           }
         ]
@@ -191,10 +191,10 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "dfbb0749ab1691f1",
+  "active": "f9f8292165b0dfab",
   "lastOpenFiles": [
     "docs/articles/02-常见问题/2-非软件问题/非软件问题.md",
-    "docs/articles/02-常见问题/1-软件问题/index.md",
+    "docs/articles/02-常见问题/1-软件问题/软件问题.md",
     "docs/articles/03-应用场景/index.md",
     "docs/articles/04-业务推广/2-资源分享/2-80fafa—专业的发码平台.md",
     "docs/articles/04-业务推广/2-资源分享/1-Moni—智能化文本抓取.md",
