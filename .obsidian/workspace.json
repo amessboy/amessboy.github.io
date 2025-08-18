@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/articles/01-使用手册/1-快速入门/4-Windows使用教程.md",
+                "file": "docs/articles/03-应用场景/1-娱乐社交/2-Steam国内注册使用方法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4-Windows使用教程"
+              "title": "2-Steam国内注册使用方法"
             }
           }
         ]
@@ -193,15 +193,16 @@
   },
   "active": "dfbb0749ab1691f1",
   "lastOpenFiles": [
+    "docs/articles/03-应用场景/1-娱乐社交/1-Netflix国内注册使用方法.md",
+    "docs/articles/01-使用手册/2-配置设置/1-PC端配置入门.md",
+    "docs/articles/01-使用手册/1-快速入门/6-iOS使用教程.md",
+    "docs/articles/01-使用手册/1-快速入门/7-梯子相关知识合集.md",
+    "docs/articles/01-使用手册/1-快速入门/5-Android使用教程.md",
+    "docs/articles/01-使用手册/1-快速入门/4-Windows使用教程.md",
     "docs/articles/01-使用手册/1-快速入门/1-魔法科学V2Plus诞生记.md",
     "docs/articles/01-使用手册/1-快速入门/2-一分钟入门.md",
     "docs/articles/01-使用手册/1-快速入门/3-科学上网的最佳实践.md",
-    "docs/articles/01-使用手册/1-快速入门/4-Windows使用教程.md",
-    "docs/articles/01-使用手册/1-快速入门/5-Android使用教程.md",
-    "docs/articles/01-使用手册/1-快速入门/6-iOS使用教程.md",
-    "docs/articles/01-使用手册/1-快速入门/7-梯子相关知识合集.md",
     "docs/articles/01-使用手册/2-配置设置/index.md",
-    "docs/articles/01-使用手册/2-配置设置/1-PC端配置入门.md",
     "docs/articles/01-使用手册/2-配置设置/2-Android配置入门.md",
     "docs/articles/01-使用手册/1-快速入门/index.md",
     "docs/articles/04-业务推广/1-分成/携手推广  共享收益.md",
@@ -209,7 +210,6 @@
     "docs/articles/02-常见问题/1-软件问题/1-常见问题.md",
     "docs/articles/03-应用场景/1-娱乐社交/3-Telegram国内注册使用方法.md",
     "docs/articles/03-应用场景/1-娱乐社交/2-Steam国内注册使用方法.md",
-    "docs/articles/03-应用场景/1-娱乐社交/1-Netflix国内注册使用方法.md",
     "docs/articles/01-使用手册/3-高级进阶/3-高级设置.md",
     "docs/articles/01-使用手册/3-高级进阶/2-路由设置.md",
     "docs/articles/01-使用手册/3-高级进阶/1-Tun模式.md",
