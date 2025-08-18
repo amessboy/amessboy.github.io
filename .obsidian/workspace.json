@@ -11,14 +11,12 @@
             "id": "dfbb0749ab1691f1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "docs/index.md",
-                "mode": "source",
-                "source": false
+                "file": "docs/articles/04-业务推广/asserts/庆祝一下喽！_1_猫里喵气_来自小红书网页版 1.jpg"
               },
-              "icon": "lucide-file",
-              "title": "index"
+              "icon": "lucide-image",
+              "title": "庆祝一下喽！_1_猫里喵气_来自小红书网页版 1"
             }
           }
         ]
@@ -191,15 +189,22 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "dfbb0749ab1691f1",
+  "active": "769abcd3f8576777",
   "lastOpenFiles": [
+    "docs/articles/04-业务推广/asserts/庆祝一下喽！_1_猫里喵气_来自小红书网页版 1.jpg",
+    "docs/articles/04-业务推广/asserts/庆祝一下喽！_1_猫里喵气_来自小红书网页版.jpg",
+    "docs/articles/04-业务推广/2-资源分享/3-各种类型AI分享.md",
+    "docs/index.md",
+    "docs/articles/04-业务推广/index.md",
+    "docs/articles/04-业务推广/asserts",
+    "docs/articles/04-业务推广/1-分成/携手推广  共享收益.md",
+    "docs/public/apple-touch-icon.png",
     "docs/articles/03-应用场景/index.md",
     "docs/articles/02-常见问题/index.md",
     "docs/articles/01-使用手册/2-配置设置/index.md",
     "docs/articles/01-使用手册/2-配置设置/2-Android配置入门.md",
     "docs/articles/01-使用手册/2-配置设置/1-PC端配置入门.md",
     "docs/articles/01-使用手册/3-高级进阶/index.md",
-    "docs/index.md",
     "docs/articles/01-使用手册/1-快速入门/index.md",
     "docs/articles/01-使用手册/1-快速入门/asserts/企业微信截图_17554830228635 2.png",
     "docs/articles/01-使用手册/1-快速入门/asserts/企业微信截图_17554830228635 1.png",
@@ -209,13 +214,10 @@
     "docs/articles/03-应用场景/3-科技学术/2-Youtube注册使用指南.md",
     "docs/articles/03-应用场景/3-科技学术/1-Chatgpt撰写论文好帮手.md",
     "docs/articles/04-业务推广/2-资源分享/1-Nginx常用命令.md",
-    "docs/articles/04-业务推广/2-资源分享/3-各种类型AI分享.md",
     "docs/articles/04-业务推广/2-资源分享/2-vscode常用插件.md",
-    "docs/articles/04-业务推广/1-分成/携手推广  共享收益.md",
     "docs/articles/03-应用场景/1-娱乐社交/3-Telegram国内注册使用方法.md",
     "docs/articles/03-应用场景/1-娱乐社交/2-Steam国内注册使用方法.md",
     "docs/articles/03-应用场景/1-娱乐社交/1-Netflix国内注册使用方法.md",
-    "docs/articles/04-业务推广/index.md",
     "docs/articles/01-使用手册/index.md",
     "docs/articles/02-常见问题/2-非软件问题/1-登录注册.md",
     "docs/articles/01-使用手册/3-高级进阶/3-高级设置.md",
@@ -225,11 +227,6 @@
     "docs/articles/03-应用场景/2-外贸/asserts/2025-08-05_150004.png",
     "docs/articles/03-应用场景/2-外贸/asserts/2025-08-05_150004 1.png",
     "docs/articles/01-使用手册/1-快速入门/5-Android使用教程.md",
-    "docs/articles/01-使用手册/1-快速入门/4-Windows使用教程.md",
-    "docs/articles/03-应用场景/3-科技学术/asserts/2025-08-14_114404.png",
-    "docs/articles/03-应用场景/3-科技学术/image.png",
-    "docs/articles/03-应用场景/3-科技学术/asserts/2025-08-14_171551.png",
-    "docs/articles/04-业务推广/asserts",
     "docs/articles/04-业务推广/1-分成/asserts",
     "docs/articles/02-常见问题/1-软件问题/asserts",
     "docs/articles/02-常见问题/2-非软件问题/asserts",
