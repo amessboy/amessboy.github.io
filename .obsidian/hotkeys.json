@@ -1,0 +1,10 @@
+{
+  "workspace:show-trash": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "2"
+    }
+  ]
+}
