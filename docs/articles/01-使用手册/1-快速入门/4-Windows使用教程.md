@@ -11,8 +11,7 @@ V2Plus是Windows系统下的**免费**代理软件客户端，功能强大且支
 
 **V2Plus官网** ： [V2Plus - 专业稳定的科学上网梯子服务 | 翻墙VPN代理 - V2Plus科学上网](http://www.v2plus.xyz/)
 **下载地址1**： https://gofile.io/d/NbgZX8
-**下载地址2**： https://github.com/alwaysgot200/v2lib/releases/download/latest/V2Plus-latest-win-x64.7z
-**备用地址**： https://www.mediafire.com/file/7msuyqnxbl4ilmn/v2plus-windows-x64-0617.7z/file
+**下载地址2**： https://github.com/alwaysgot200/v2plus-releases/download/latest/V2Plus-latest-win-x64.zip
 
 ## **3**、安装教程
 ### **3.1**、软件目录

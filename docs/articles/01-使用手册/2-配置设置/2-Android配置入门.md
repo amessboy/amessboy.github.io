@@ -1,6 +1,4 @@
 
-# Android:
-
 ## 下载v2rayNG共享电脑端的订阅
 
 1. 使用手机浏览器打开以下网址：[https://github.com/2dust/v2rayNG/releases](https://github.com/2dust/v2rayNG/releases "https://github.com/2dust/v2rayNG/releases")  
